@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**EmilBallau/EmilBallau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Emil_Ballau/Emil_Ballau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
